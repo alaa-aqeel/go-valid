@@ -2,6 +2,14 @@
 
 
 
+# RULES
+| Rule Name | Description |
+| --- | --- |
+| required | Field is required |
+| min | Minimum value | 
+| max | Maximum value |
+| numeric | Numeric value |
+| integer | Integer value |
 
 
 # Example 
